@@ -3,7 +3,7 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        url: 'https://twitter.com/reyhubcom',
         type: 'social',
         icon: '/twitter.svg',
         on: true
