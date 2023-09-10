@@ -1,7 +1,7 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
+        name: 'Reyanto',
         username: 'nxtlnk.vercel.app',
         url: 'https://nxtlnk.vercel.app',
         titleImg: true,
