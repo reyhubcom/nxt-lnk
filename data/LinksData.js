@@ -10,42 +10,42 @@ const webLinks = [
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/',
         type: 'social',
         icon: '/insta.svg',
         on: true
     },
     {
         title: 'Dribbble',
-        url: 'https://dribbble.com/realvjy',
+        url: 'https://dribbble.com/',
         type: 'social',
         icon: '/dribbble.svg',
         on: false
     },
     {
         title: 'Medium',
-        url: 'https://medium.com/@realvjy',
+        url: 'https://medium.com/',
         type: 'social',
         icon: '/medium.svg',
         on: false
     },
     {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/',
         type: 'social',
         icon: '/github.svg',
         on: true
     },
     {
         title: 'Youtube',
-        url: 'https://youtube.com/realvjy',
+        url: 'https://youtube.com/',
         type: 'social',
         icon: '/youtube.svg',
         on: false
     },
     {
         title: 'Figma',
-        url: 'https://figma.com/@realvjy',
+        url: 'https://figma.com/',
         type: 'social',
         icon: '/figma.svg',
         on: true
@@ -59,14 +59,14 @@ const webLinks = [
     },
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/realvjy/',
+        url: 'https://www.linkedin.com/in/',
         type: 'social',
         icon: '/linkedin.svg',
         on: false
     },
     {
         title: 'Mastodon',
-        url: 'https://mastodon.online/@realvjy',
+        url: 'https://mastodon.online/',
         type: 'social',
         icon: '/mastodon.svg',
         on: true
